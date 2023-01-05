@@ -47,3 +47,17 @@
 // a= 'avi'
 // a= true
 // console.log(a)
+// operators
+// let x = 10
+// let y = 5
+// console.log(x%y)
+// console.log(++x)
+// console.log(--y)
+// console.log(x <= y)
+// const isValidNumber = x > 8 && 8 > y
+// console.log(isValidNumber)
+// const isValid = true
+// console.log(!isValid)
+// console.log('Bruce ' + 'Wayne')
+// const isEven = 10% 2 === 0 ? 'Number is even' : 'Number is odd'
+// console.log(isEven)

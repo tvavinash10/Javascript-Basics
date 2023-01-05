@@ -66,6 +66,11 @@
 // console.log('Bruce' - 'Wayne')
 // console.log('5' - null)
 // console.log(5 + undefined)
-console.log(parseFloat('3.14'))
-console.log((500).toString())
-console.log(Boolean(20))
+// console.log(parseFloat('3.14'))
+// console.log((500).toString())
+// console.log(Boolean(20))
+//Equality
+const var1 = null
+const var2 =undefined
+console.log(var1 == var2)
+console.log(var1 === var2)

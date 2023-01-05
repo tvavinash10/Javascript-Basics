@@ -61,3 +61,11 @@
 // console.log('Bruce ' + 'Wayne')
 // const isEven = 10% 2 === 0 ? 'Number is even' : 'Number is odd'
 // console.log(isEven)
+//Type Conversions
+// console.log(2 + '3')
+// console.log('Bruce' - 'Wayne')
+// console.log('5' - null)
+// console.log(5 + undefined)
+console.log(parseFloat('3.14'))
+console.log((500).toString())
+console.log(Boolean(20))

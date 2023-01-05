@@ -83,13 +83,31 @@
 // } else {
 //     console.log('Number is Zero')
 // }
-const color = 'green'
-switch(color){
-    case 'red' : console.log('Color is Red')
-    break
-    case 'blue' : console.log('Color is Blue')
-    break
-    case 'green' : console.log('Color is Green')
-    break
-    default : console.log('Not a Valid Color')
-}
+// const color = 'green'
+// switch(color){
+//     case 'red' : console.log('Color is Red')
+//     break
+//     case 'blue' : console.log('Color is Blue')
+//     break
+//     case 'green' : console.log('Color is Green')
+//     break
+//     default : console.log('Not a Valid Color')
+// }
+// Looping code
+// for(let i = 1; i<=5; i++){
+//     console.log('iteration number ' + i)
+// }
+// let i=1
+// while(i<=5){
+//     console.log('iteration number ' + i)
+//     i++
+// }
+// let i=6
+// do{
+//    console.log('iteration number ' + i)
+//    i++
+// } while(i<=5)
+// const numArray = [1,2,3,4,5]
+// for(const num of numArray){
+//     console.log('Iteration Number'+ num)
+// }

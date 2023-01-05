@@ -70,7 +70,26 @@
 // console.log((500).toString())
 // console.log(Boolean(20))
 //Equality
-const var1 = null
-const var2 =undefined
-console.log(var1 == var2)
-console.log(var1 === var2)
+// const var1 = null
+// const var2 =undefined
+// console.log(var1 == var2)
+// console.log(var1 === var2)
+//Conditional statements
+// const num = 0
+// if(num > 0){
+//     console.log('Number is positive')
+// } else if(num < 0) {
+//     console.log('Number is negative')
+// } else {
+//     console.log('Number is Zero')
+// }
+const color = 'green'
+switch(color){
+    case 'red' : console.log('Color is Red')
+    break
+    case 'blue' : console.log('Color is Blue')
+    break
+    case 'green' : console.log('Color is Green')
+    break
+    default : console.log('Not a Valid Color')
+}

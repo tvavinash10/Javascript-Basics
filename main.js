@@ -111,3 +111,16 @@
 // for(const num of numArray){
 //     console.log('Iteration Number'+ num)
 // }
+// Functions
+// function greet(username) {
+//   console.log("Good morning "+ username);
+// }
+// greet('avinash');
+// function add(a,b){
+//     return a + b
+// }
+// const sum = add(2,3)
+// console.log(sum)
+// const arrowSum = (a, b) => a + b;
+// const sum = arrowSum(2,3)
+// console.log(sum)

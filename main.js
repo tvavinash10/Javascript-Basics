@@ -124,3 +124,16 @@
 // const arrowSum = (a, b) => a + b;
 // const sum = arrowSum(2,3)
 // console.log(sum)
+//scope
+// const myNum = 100
+// if(true){
+//     const myName = 'avi'
+//     console.log(myName)
+//     console.log(myNum)
+// }
+// function test(){
+//     const myName = 'avi'
+//     console.log(myName)
+//     console.log(myNum)
+// }
+// test()
